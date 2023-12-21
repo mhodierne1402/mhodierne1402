@@ -1,8 +1,6 @@
 **👋 HI, I'M MARK HODIERNE - @mhodierne1402**
 - I’m interested in AI/Machine Learning.
 - I’m currently learning how to implement Deep Learning models. I’m just starting my exploration of ML, and I'll happily collaborate with others and help out wherever I can.
-- 📫 My contact details are:
-- Email - mark@markhodierne.com
 - LinkedIn - https://www.linkedin.com/in/markhodierne
 
  **CURRENT PROJECT: Image Caption Generator**
