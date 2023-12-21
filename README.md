@@ -6,7 +6,8 @@
 -     Email - mark@markhodierne.com
 -     LinkedIn - https://www.linkedin.com/in/markhodierne/
 
-CURRENT PROJECTS:
+CURRENT PROJECTS
+
 Image Caption Generator:
 - An exploration of deep learning models using computer vision and natural language processing techniques.
   Trained on datasets of images paired with human-written captions - using the Flickr8K and MSCOCO datasets.
