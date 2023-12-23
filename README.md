@@ -10,13 +10,13 @@
 A convolutional neural network plus recurrent neural network architecture
 An attention-based mechanism which improves relevancy through visual guidance, and
 Transformer models designed for parallelized computation and enhanced contextual modeling through self-attention.
-- [LINK to project repository.](https://pages.github.com/](https://github.com/mhodierne1402/image-caption-generator/))
+- [LINK to project repository.](https://github.com/mhodierne1402/image-caption-generator)
 
 **CURRENT PROJECT: The Polytope Permutation Puzzle - a Kaggle competition**
 - An exploration of traditional heuristic search methods.
 - Probably well beyond my capabilities to solve this puzzle, but I'm using it as an opportunity to re-learn and apply Dijkstra's algorithm.
 - I will compare performance with other algorithms such as A* and IDA* search. I will learn about heuristic search and methods of optimization.
-- [LINK to project repository.](https://pages.github.com/)
+- [LINK to project repository.](https://github.com/mhodierne1402/polytope-puzzle)
 
 
 
