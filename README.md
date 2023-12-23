@@ -10,7 +10,7 @@
 A convolutional neural network plus recurrent neural network architecture
 An attention-based mechanism which improves relevancy through visual guidance, and
 Transformer models designed for parallelized computation and enhanced contextual modeling through self-attention.
-- [LINK to project repository.](https://pages.github.com/)
+- [LINK to project repository.]([https://pages.github.com/](https://github.com/mhodierne1402/image-caption-generator/))
 
 **CURRENT PROJECT: The Polytope Permutation Puzzle - a Kaggle competition**
 - An exploration of traditional heuristic search methods.
