@@ -14,6 +14,7 @@
 - Implemented with MLFlow for tracking experiments. Deployed with FastAPI and Docker.
 - [LINK to project repository](https://github.com/mhodierne1402/msmarco-document-ranking)
 
+---
 
 ### Projects and Resources:
 
