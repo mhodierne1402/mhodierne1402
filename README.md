@@ -3,8 +3,8 @@
 
 
 
-- I’m interested in AI/Machine Learning.
-- I’m currently learning how to implement Deep Learning models. I’m just starting my exploration of ML, and I'll happily collaborate with others and help out wherever I can.
+- I’m interested in AI/Machine Learning. My mission is "Spending the next 40 years working to find solutions that build our planet’s nature capital".
+- I’m currently learning how to implement Deep Learning models. I’m in the early stages of ML exploration, and I'll happily collaborate with others and help out wherever I can.
 - LinkedIn - https://www.linkedin.com/in/markhodierne
 
 ### **CURRENT PROJECT: Image Caption Generator**
