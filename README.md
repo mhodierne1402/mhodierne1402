@@ -7,20 +7,12 @@
 - I’m currently learning how to implement Deep Learning models. I’m in the early stages of ML exploration, and I'll happily collaborate with others and help out wherever I can.
 - LinkedIn - https://www.linkedin.com/in/markhodierne
 
-### **CURRENT PROJECT: Image Caption Generator**
-- An exploration of deep learning models using computer vision and natural language processing techniques.
-- Trained on datasets of images paired with human-written captions - using the Flickr8K and MSCOCO datasets.
-- Three main architectures will be explored:
-A convolutional neural network plus recurrent neural network architecture
-An attention-based mechanism which improves relevancy through visual guidance, and
-Transformer models designed for parallelized computation and enhanced contextual modeling through self-attention.
-- [LINK to project repository](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/image-caption-generator)
-
-### **CURRENT PROJECT: The Polytope Permutation Puzzle - a Kaggle competition**
-- An exploration of traditional heuristic search methods.
-- Probably well beyond my capabilities to solve this puzzle, but I'm using it as an opportunity to re-learn and apply Dijkstra's algorithm.
-- I will compare performance with other algorithms such as A* and IDA* search. I will learn about heuristic search and methods of optimization.
-- [LINK to project repository](https://github.com/mhodierne1402/data-science-ml-portfolio/tree/main/polytope-puzzle)
+### **CURRENT PROJECT: Document Ranking - MS MARCO Dataset**
+- Deep learning model that takes a search query and returns the 10 most relevant documents using the Microsoft Machine Reading Comprehension dataset.
+- 'Two Tower' Recurrent Neural Network (RNN) architecture with triplet loss function to train with positive and negative training samples.
+- RNNs coded from first principles in PyTorch. Compared vanilla RNNs with GRUs and LSTMs.
+- Implemented with MLFlow for tracking experiments. Deployed with FastAPI and Docker.
+- [LINK to project repository](https://github.com/mhodierne1402/msmarco-document-ranking)
 
 
 ### Projects and Resources:
