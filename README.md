@@ -7,6 +7,10 @@
 - I’m currently learning how to implement Deep Learning models. I’m in the early stages of ML exploration, and I'll happily collaborate with others and help out wherever I can.
 - LinkedIn - https://www.linkedin.com/in/markhodierne
 
+### **CURRENT PROJECT: Computer Vision - Object Recognition on Football Pitches**
+- Detecting the players, their team (and the ball!) on a football pitch, together with the direction they're facing.
+- Convolutional Neural Network: YOLO architecture with a custom loss function. 
+
 ### **CURRENT PROJECT: Document Ranking - MS MARCO Dataset**
 - Deep learning model that takes a search query and returns the 10 most relevant documents using the Microsoft Machine Reading Comprehension dataset.
 - 'Two Tower' Recurrent Neural Network (RNN) architecture with triplet loss function to train with positive and negative training samples.
