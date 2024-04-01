@@ -9,7 +9,8 @@
 
 ### **CURRENT PROJECT: Computer Vision - Object Recognition on Football Pitches**
 - Detecting the players, their team (and the ball!) on a football pitch, together with the direction they're facing.
-- Convolutional Neural Network: YOLO architecture with a custom loss function. 
+- Convolutional Neural Network: YOLO architecture with a custom loss function.
+- [LINK to project repository](https://github.com/mhodierne1402/football-object-recognition)
 
 ### **CURRENT PROJECT: Document Ranking - MS MARCO Dataset**
 - Deep learning model that takes a search query and returns the 10 most relevant documents using the Microsoft Machine Reading Comprehension dataset.
